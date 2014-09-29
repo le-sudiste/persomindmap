@@ -1,5 +1,80 @@
 {
-  "title": "ceci est un test",
+  "title": "Robinet",
   "id": 1,
-  "formatVersion": 2
+  "formatVersion": 2,
+  "ideas": {
+    "-10": {
+      "title": "Agregateur (RSS?)",
+      "id": 2,
+      "attr": {
+        "position": [
+          -55.49310302734375,
+          132.0035171508789,
+          1
+        ],
+        "style": {}
+      },
+      "ideas": {
+        "1": {
+          "title": "Interpreteur",
+          "id": 3,
+          "attr": {
+            "position": [
+              128.50689697265625,
+              163.00347900390625,
+              1
+            ],
+            "style": {}
+          },
+          "ideas": {
+            "1": {
+              "title": "Sites avec flux rss",
+              "id": 5,
+              "attr": {
+                "style": {}
+              }
+            }
+          }
+        },
+        "11": {
+          "title": "interpreteur",
+          "id": 6,
+          "ideas": {
+            "1": {
+              "title": "Site avec actualités mais sans flux RSS",
+              "id": 7
+            }
+          }
+        },
+        "12": {
+          "title": "interpreteur",
+          "id": 10,
+          "ideas": {
+            "1": {
+              "title": "résultats de moteur de recherche",
+              "id": 11
+            }
+          }
+        },
+        "0.75": {
+          "title": "interpreteur",
+          "id": 8,
+          "attr": {
+            "position": [
+              147.50692749023438,
+              95.00347900390625,
+              2
+            ],
+            "style": {}
+          },
+          "ideas": {
+            "1": {
+              "title": "Sites avec suivi perso",
+              "id": 9
+            }
+          }
+        }
+      }
+    }
+  }
 }
